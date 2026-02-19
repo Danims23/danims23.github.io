@@ -1,7 +1,7 @@
 ## EXPERIENCIA PROFESIONAL
 **Personal investigador**  
-Universidad de Alcalá de Henares — Spain  
-2025 – Present  
+Universidad de Alcalá de Henares - Spain  
+Septiembre 2025 - Actualidad
 
 - Desarrollo de modelos predictivos de series temporales aplicados a datos reales de servicios de urgencias hospitalarias.
 - Implementación y comparación de modelos de Machine Learning y modelos estadísticos para time series forecasting (LightGBM, XGBoost, Prophet, etc.).
