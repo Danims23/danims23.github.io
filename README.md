@@ -9,7 +9,7 @@ Septiembre 2025 — Actualidad
 - Programación en **Python** para análisis de datos, modelado y validación.
 - Uso de **Linux** como entorno de trabajo y ejecución en servidor remoto.
 - Automatización de procesos mediante scripts Bash (.sh).
-- Contenerización de proyectos con Docker para asegurar reproducibilidad.
+- Contenerización de proyectos con **Docker** para asegurar reproducibilidad.
 - Control de versiones y trabajo colaborativo con **GitHub**.
 - Evaluación de modelos mediante métricas estadísticas y validación temporal (walk-forward).
 - Revisión del estado del arte y benchmarking de modelos a partir de literatura científica.
