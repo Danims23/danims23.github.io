@@ -71,3 +71,15 @@ section {
 .button:hover {
   background-color: #005f8d;
 }
+
+/* Ocultar link automático a GitHub en la barra lateral */
+.sidebar .repo {
+  display: none;
+}
+
+/* Barra lateral - título */
+.sidebar .site-title {
+  color: #111111; /* negro oscuro */
+  font-weight: 600;
+  text-decoration: none; /* evita subrayado si se trata de link */
+}
