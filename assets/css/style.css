@@ -89,7 +89,7 @@ section {
   background-color: #005f8d;
 }
 
-/* Ocultar header automático del tema */
-header {
+/* Ocultar header o logo automático del tema */
+header, .site-header, .site-logo {
   display: none !important;
 }
