@@ -5,7 +5,20 @@
 <h1>Daniel Martínez Sales</h1>
 <p class="description">Data Scientist & Machine Learning Researcher | Healthcare Forecasting | Physicist & Mathematician</p>
 
+<!-- Contenedor para partículas -->
+<div id="particles-container"></div>
 
+<script>
+  const container = document.getElementById('particles-container');
+  for(let i=0; i<30; i++){
+    const p = document.createElement('div');
+    p.className = 'particle';
+    p.style.left = Math.random()*100 + 'vw';
+    p.style.animationDuration = (10 + Math.random()*15) + 's';
+    p.style.width = p.style.height = (5 + Math.random()*15) + 'px';
+    container.appendChild(p);
+  }
+</script>
 
 ## EXPERIENCIA PROFESIONAL
 **Personal investigador**  
