@@ -90,3 +90,8 @@ section {
 .button:hover {
   background-color: #005f8d;
 }
+
+/* Ocultar header automático del tema */
+header {
+  display: none !important;
+}
