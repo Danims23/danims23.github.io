@@ -1,24 +1,32 @@
 /* assets/css/style.css */
 
 
-/* Fondo animado suave */
+/* Fondo con partículas */
 body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
-  color: #333333;
-  background: linear-gradient(-45deg, #f8f9fa, #e3f2fd, #ffffff, #e0f7fa);
-  background-size: 400% 400%;
-  animation: gradientBG 15s ease infinite;
-  text-align: center;
+  color: #333;
+  background: #ffffff;
+  overflow-x: hidden;
+  position: relative;
 }
 
-/* Animación del fondo */
-@keyframes gradientBG {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
+/* Animación de partículas */
+@keyframes floatParticles {
+  0% { transform: translateY(100vh) translateX(0) rotate(0deg); opacity: 0; }
+  50% { opacity: 0.5; }
+  100% { transform: translateY(-10vh) translateX(50px) rotate(360deg); opacity: 0; }
+}
+
+.particle {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: rgba(0,123,255,0.3);
+  border-radius: 50%;
+  animation: floatParticles 20s linear infinite;
 }
 
 /* Foto circular */
