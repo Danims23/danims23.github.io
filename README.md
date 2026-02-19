@@ -2,7 +2,9 @@
 
 ## FORMACIÓN ACADÉMICA
 **2025 - Grado en Matemáticas** (Universidad de Granada)
+
 **2025 - Grado en Física** (Universidad de Granada)
+
 
 ## COMPETENCIAS EN IDIOMAS
 **Inglés: B2 First.**
