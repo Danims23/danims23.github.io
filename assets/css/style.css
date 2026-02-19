@@ -46,18 +46,24 @@ p.description {
   margin-bottom: 30px;
 }
 
-/* Links de contacto */
+/* Links de contacto: quitar subrayado y color azul */
 .contact-link {
   display: inline-block;
   text-align: center;
-  color: #0077b5;
+  color: #0077b5;   /* azul LinkedIn/GitHub */
   font-weight: 500;
   margin: 5px 10px;
+  text-decoration: none !important; /* fuerza quitar subrayado */
 }
 
 .contact-link img {
   vertical-align: middle;
   margin-right: 5px;
+}
+
+/* Forzar que ningún hover los subraye */
+.contact-link:hover {
+  text-decoration: none !important;
 }
 
 /* Secciones */
