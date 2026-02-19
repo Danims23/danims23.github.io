@@ -54,4 +54,3 @@ desfibrilación externa automatizada.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="24">
   GitHub
 
-[LinkedIn](https://www.linkedin.com/in/daniel-martinez-sales/)
