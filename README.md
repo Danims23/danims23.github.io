@@ -5,17 +5,6 @@
 <h1>Daniel Martínez Sales</h1>
 <p class="description">Data Scientist & Machine Learning Researcher | Healthcare Forecasting | Physicist & Mathematician</p>
 
-<!-- Links de contacto -->
-<a class="contact-link" href="https://www.linkedin.com/in/daniel-martinez-sales" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" alt="LinkedIn">
-  LinkedIn
-</a>
-
-<a class="contact-link" href="https://github.com/Danims23" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="24" alt="GitHub">
-  GitHub
-</a>
-
 
 
 ## EXPERIENCIA PROFESIONAL
@@ -62,3 +51,15 @@ Septiembre 2025 — Actualidad
 desfibrilación externa automatizada.
 - Abierto al trabajo remoto.
 - Abierto al cambio de residencia.
+
+## CONTACTO
+<!-- Links de contacto -->
+<a class="contact-link" href="https://www.linkedin.com/in/daniel-martinez-sales" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" alt="LinkedIn">
+  LinkedIn
+</a>
+
+<a class="contact-link" href="https://github.com/Danims23" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="24" alt="GitHub">
+  GitHub
+</a>
