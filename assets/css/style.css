@@ -2,8 +2,8 @@
 
 /* Fondo general */
 body {
-  background-color: #ffffff;  /* Fondo blanco */
-  color: #333333;             /* Texto gris oscuro para mejor lectura */
+  background-color: #ffffff;
+  color: #333333;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
   margin: 0;
@@ -12,15 +12,14 @@ body {
 
 /* Encabezados */
 h1, h2, h3 {
-  color: #111111;  /* Más oscuro para títulos */
+  color: #111111;
   font-weight: 600;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
 
-/* Links */
+/* Links generales */
 a {
-  color: #0077b5;  /* Azul LinkedIn agradable */
   text-decoration: none;
 }
 
@@ -28,13 +27,28 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Imagen del logo o foto */
-img {
+/* Foto circular principal */
+.profile-photo {
   max-width: 150px;
-  height: auto;
-  border-radius: 50%; /* circular si es foto */
+  height: 150px;
+  border-radius: 50%;
   display: block;
-  margin: 0 auto 20px;
+  margin: 20px auto;
+  object-fit: cover; /* asegura que la foto llene el círculo */
+}
+
+/* Links de contacto (LinkedIn, GitHub, etc.) */
+.contact-link {
+  display: block;
+  text-align: center;
+  color: #0077b5; /* azul LinkedIn */
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+.contact-link img {
+  vertical-align: middle;
+  margin-right: 5px; /* espacio entre icono y texto */
 }
 
 /* Secciones */
