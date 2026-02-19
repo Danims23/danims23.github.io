@@ -1,4 +1,4 @@
-<h1>Daniel Martínez</h1>
+<h1>Daniel Martínez Sales</h1>
 
 <img src="/assets/img/photo.png" alt="Foto de Daniel Martínez" class="profile-photo">
 
