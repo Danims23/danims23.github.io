@@ -40,7 +40,7 @@ a:hover {
 /* Links de contacto (LinkedIn, GitHub, etc.) */
 .contact-link {
   display: block;
-  text-align: center;
+  text-align: left;
   color: #0077b5; /* azul LinkedIn */
   font-weight: 500;
   margin-top: 10px;
