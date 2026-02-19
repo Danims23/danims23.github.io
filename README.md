@@ -44,4 +44,4 @@ desfibrilación externa automatizada.
 - Abierto al cambio de residencia.
 
 ## CONTACTO
-[LinkedIn](https://www.linkedin.com/in/tu-usuario)
+[LinkedIn](https://www.linkedin.com/in/daniel-martinez-sales/)
