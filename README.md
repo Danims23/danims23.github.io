@@ -20,13 +20,11 @@
 
 
 ## INFORMACIÓN ADICIONAL
-2025 - Grado en Matemáticas (Universidad de Granada)
-2025 - Grado en Física (Universidad de Granada)
-Matemático y Físico
-Daniel
-Martínez Sales
 - Carné de conducir B (disponibilidad para desplazamientos).
 - Certificación que acredita las competencias para el desarrollo del soporte vital básico y la
 desfibrilación externa automatizada.
 - Abierto al trabajo remoto.
 - Abierto al cambio de residencia.
+
+## CONTACTO
+[LinkedIn](https://www.linkedin.com/in/tu-usuario)
