@@ -1,17 +1,3 @@
-<h1>Daniel Martínez Sales</h1>
-
-<img src="/assets/img/photo.png" alt="Foto de Daniel Martínez" class="profile-photo">
-
-<a class="contact-link" href="https://www.linkedin.com/in/daniel-martinez-sales" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24">
-  LinkedIn
-</a>
-
-<a class="contact-link" href="https://github.com/tu-usuario" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="24">
-  GitHub
-</a>
-
 ## EXPERIENCIA PROFESIONAL
 **Personal investigador**  
 Universidad de Alcalá de Henares — Spain  
@@ -58,4 +44,14 @@ desfibrilación externa automatizada.
 - Abierto al cambio de residencia.
 
 ## CONTACTO
+
+<a class="contact-link" href="https://www.linkedin.com/in/daniel-martinez-sales" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="24">
+  LinkedIn
+</a>
+
+<a class="contact-link" href="https://github.com/tu-usuario" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="24">
+  GitHub
+
 [LinkedIn](https://www.linkedin.com/in/daniel-martinez-sales/)
