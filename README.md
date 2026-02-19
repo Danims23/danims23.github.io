@@ -50,7 +50,7 @@ desfibrilación externa automatizada.
   LinkedIn
 </a>
 
-<a class="contact-link" href="https://github.com/tu-usuario" target="_blank">
+<a class="contact-link" href="https://github.com/Danims23" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="24">
   GitHub
 
