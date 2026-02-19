@@ -3,17 +3,17 @@
 Universidad de Alcalá de Henares — Spain  
 Septiembre 2025 — Actualidad
 
-- Desarrollo de modelos predictivos de series temporales aplicados a datos reales de servicios de urgencias hospitalarias.
-- Implementación y comparación de modelos de Machine Learning y modelos estadísticos para time series forecasting (LightGBM, XGBoost, Prophet, etc.).
+- Desarrollo de modelos predictivos de **series temporales** aplicados a datos reales de servicios de urgencias hospitalarias.
+- Implementación y comparación de modelos de **Machine Learning** y modelos estadísticos para time series forecasting (LightGBM, XGBoost, Prophet, etc.).
 - Análisis y selección de variables exógenas para mejorar la capacidad predictiva.
-- Programación en Python para análisis de datos, modelado y validación.
-- Uso de Linux como entorno de trabajo y ejecución en servidor remoto.
+- Programación en **Python** para análisis de datos, modelado y validación.
+- Uso de **Linux** como entorno de trabajo y ejecución en servidor remoto.
 - Automatización de procesos mediante scripts Bash (.sh).
 - Contenerización de proyectos con Docker para asegurar reproducibilidad.
-- Control de versiones y trabajo colaborativo con GitHub.
+- Control de versiones y trabajo colaborativo con **GitHub**.
 - Evaluación de modelos mediante métricas estadísticas y validación temporal (walk-forward).
 - Revisión del estado del arte y benchmarking de modelos a partir de literatura científica.
-- Redacción de documentación técnica y científica en LaTeX.
+- Redacción de documentación técnica y científica en **LaTeX**.
 - Trabajo orientado a investigación aplicada y transferencia a entorno productivo.
 
 
