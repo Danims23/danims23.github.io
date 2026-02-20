@@ -27,7 +27,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid #0077b5;
-  margin: 40px 0 20px 0.5%; /* Cambiado: arriba 40px, derecha 0, abajo 20px, izquierda 0 */
+  margin: 40px 0 20px 1%; /* Cambiado: arriba 40px, derecha 0, abajo 20px, izquierda 0 */
   display: block;        /* Mantiene la foto en su propia línea */
 }
 
